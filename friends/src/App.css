@@ -12,20 +12,10 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
-.key {
-  background-color: #d0c5bb;
-  padding: 24px 58px;
-  width: 539px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
+body{
+  margin:100px;
 }
-
-.spinner {
-  display: flex;
-  flex-flow: column;
-  justify-content: center;
-  align-items: center;
-  color: #204963;
+div{
+  border:1px solid grey;
+  margin:50px;
 }
